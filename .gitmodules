@@ -1,0 +1,6 @@
+[submodule "angular-hubbec"]
+	path = angular-hubbec
+	url = git@github.com:chechorjuela/angular-hubbec.git
+[submodule "back-hubbec"]
+	path = back-hubbec
+	url = git@github.com:chechorjuela/back-hubbec.git
