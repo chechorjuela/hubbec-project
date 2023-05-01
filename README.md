@@ -28,7 +28,7 @@ URL_CLIENT=http://localhost:3000
 
 cuando se halla terminado de finalizar de crear el archivo de configuracion. a continucion debemos correr el comando:
 
-npm i install.
+> npm i
 
 hay que tener presente que dentro de esta carpeta existe una carpeta public la cual es donde se guardan las imagenes. lo mejor es que esta carpeta permisos de editar, creacion, y eliminar.
 
@@ -37,3 +37,9 @@ cuando se halla terminado estos pasos de configuracion debemos correr el comando
 > npm run dev.
 
 # Angular  angular-hubbec
+
+para el proyecto de angular solamente tendremos que correr el comando 
+> npm i
+
+Cuando se halla finalizado se podra correr con:
+> npm start
