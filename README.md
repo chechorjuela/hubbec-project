@@ -5,5 +5,6 @@ de los submodulos de git.
 
 ### Git 
 Abrir el terminar y ejecutar los siguientes comandos para actualizar los submodulos
-> 	git submodule sync
->   git submodule update --remote
+> 	git pull --recurse-submodules 
+> 	
+>   git submodule update --remote 
