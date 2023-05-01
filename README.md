@@ -1,14 +1,16 @@
 # hubbec-project back-hubbec
 
 ** Paketes
+las versiones con que se fueron creadas este aplicativo fue con la version 16.14.0 de node y 8.3.1. y angular v15.2.
 
+Se debe tener instalado mongoDb, junto con compass para visualizar los cambios en la db.
 
 El proyecto se encuentra desarrollada en las tecnologias mas recientes para angular y nodejs con express. la instalacion del proyecto se tiene que obtener los cambios
 de los submodulos de git.
 
 ### Git 
 Abrir el terminar y ejecutar los siguientes comandos para actualizar los submodulos
->  git submodule update --remote
+>  git submodule update --init --recursive
 > 	
 >  git submodule update --remote
 
