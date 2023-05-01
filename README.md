@@ -22,13 +22,21 @@ back-hubbec/.env
 Contenido:
 
 > APPLICATION_PORT=3000
+> 
 > MONGO_DATABASE=usershubbec
+> 
 > MONGO_PORT=27017
+> 
 > MONGO_HOST=localhost
+> 
 > MONGO_PASSWORD=
+> 
 > MONGO_USER=
+> 
 > TOKEN_EXPIRATION_IN_MIN=587
+> 
 > DEBUG=true
+> 
 > URL_CLIENT=http://localhost:3000
 
 cuando se halla terminado de finalizar de crear el archivo de configuracion. a continucion debemos correr el comando:
